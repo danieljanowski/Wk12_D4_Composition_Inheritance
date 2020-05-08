@@ -1,4 +1,4 @@
-# Polymorphism & Composition Homework - Quiz
+### Polymorphism & Composition Homework - Quiz
 
 ## Polymorphism
 
